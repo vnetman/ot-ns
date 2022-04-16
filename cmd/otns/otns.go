@@ -30,9 +30,9 @@ import (
 	"context"
 	"os"
 
-	"github.com/openthread/ot-ns/otns_main"
-	"github.com/openthread/ot-ns/progctx"
-	"github.com/openthread/ot-ns/visualize"
+	"github.com/vnetman/ot-ns/otns_main"
+	"github.com/vnetman/ot-ns/progctx"
+	"github.com/vnetman/ot-ns/visualize"
 )
 
 func main() {

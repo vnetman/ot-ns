@@ -109,7 +109,7 @@ class BaseStressTest(object, metaclass=StressTestMetaclass):
 
         try:
             stress_result_fd.write(
-                f"""**[OTNS](https://github.com/openthread/ot-ns) Stress Tests Report Generated at {time.strftime(
+                f"""**[OTNS](https://github.com/vnetman/ot-ns) Stress Tests Report Generated at {time.strftime(
                     "%m/%d %H:%M:%S")}**\n""")
             stress_result_fd.write(self.result.format())
         finally:

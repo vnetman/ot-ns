@@ -35,20 +35,20 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/openthread/ot-ns/progctx"
+	"github.com/vnetman/ot-ns/progctx"
 
-	"github.com/openthread/ot-ns/dissectpkt"
-	"github.com/openthread/ot-ns/dissectpkt/wpan"
-	"github.com/openthread/ot-ns/pcap"
-	"github.com/openthread/ot-ns/threadconst"
-	"github.com/openthread/ot-ns/visualize"
+	"github.com/vnetman/ot-ns/dissectpkt"
+	"github.com/vnetman/ot-ns/dissectpkt/wpan"
+	"github.com/vnetman/ot-ns/pcap"
+	"github.com/vnetman/ot-ns/threadconst"
+	"github.com/vnetman/ot-ns/visualize"
 	"github.com/simonlingoogle/go-simplelogger"
 
 	"math"
 	"net"
 	"time"
 
-	. "github.com/openthread/ot-ns/types"
+	. "github.com/vnetman/ot-ns/types"
 )
 
 const (

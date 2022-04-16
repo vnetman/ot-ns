@@ -27,7 +27,7 @@
 package dispatcher
 
 import (
-	"github.com/openthread/ot-ns/threadconst"
+	"github.com/vnetman/ot-ns/threadconst"
 	"github.com/simonlingoogle/go-simplelogger"
 )
 

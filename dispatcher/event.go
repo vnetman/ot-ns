@@ -29,7 +29,7 @@ package dispatcher
 import (
 	"net"
 
-	. "github.com/openthread/ot-ns/types"
+	. "github.com/vnetman/ot-ns/types"
 )
 
 const (

@@ -32,7 +32,7 @@ setuptools.setup(
     version="0.0.0",
     author="The OTNS Authors",
     description="Run OpenThread simulation using OTNS",
-    url="https://github.com/openthread/ot-ns",
+    url="https://github.com/vnetman/ot-ns",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",

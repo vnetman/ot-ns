@@ -37,18 +37,18 @@ import (
 	"testing"
 	"time"
 
-	visualize_grpc_pb "github.com/openthread/ot-ns/visualize/grpc/pb"
+	visualize_grpc_pb "github.com/vnetman/ot-ns/visualize/grpc/pb"
 	"google.golang.org/grpc"
 
-	"github.com/openthread/ot-ns/dispatcher"
+	"github.com/vnetman/ot-ns/dispatcher"
 	"github.com/stretchr/testify/assert"
 
 	"github.com/chzyer/readline"
-	"github.com/openthread/ot-ns/cli/runcli"
-	"github.com/openthread/ot-ns/otns_main"
-	"github.com/openthread/ot-ns/progctx"
-	. "github.com/openthread/ot-ns/types"
-	"github.com/openthread/ot-ns/visualize"
+	"github.com/vnetman/ot-ns/cli/runcli"
+	"github.com/vnetman/ot-ns/otns_main"
+	"github.com/vnetman/ot-ns/progctx"
+	. "github.com/vnetman/ot-ns/types"
+	"github.com/vnetman/ot-ns/visualize"
 	"github.com/simonlingoogle/go-simplelogger"
 )
 

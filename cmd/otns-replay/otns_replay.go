@@ -32,10 +32,10 @@ import (
 	"net"
 	"os"
 
-	"github.com/openthread/ot-ns/progctx"
-	pb "github.com/openthread/ot-ns/visualize/grpc/pb"
-	"github.com/openthread/ot-ns/web"
-	webSite "github.com/openthread/ot-ns/web/site"
+	"github.com/vnetman/ot-ns/progctx"
+	pb "github.com/vnetman/ot-ns/visualize/grpc/pb"
+	"github.com/vnetman/ot-ns/web"
+	webSite "github.com/vnetman/ot-ns/web/site"
 	"github.com/simonlingoogle/go-simplelogger"
 	"google.golang.org/grpc"
 )

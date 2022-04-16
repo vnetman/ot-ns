@@ -36,16 +36,16 @@ import (
 
 	"gopkg.in/yaml.v3"
 
-	"github.com/openthread/ot-ns/visualize"
+	"github.com/vnetman/ot-ns/visualize"
 
-	"github.com/openthread/ot-ns/web"
+	"github.com/vnetman/ot-ns/web"
 
-	"github.com/openthread/ot-ns/progctx"
+	"github.com/vnetman/ot-ns/progctx"
 
-	"github.com/openthread/ot-ns/dispatcher"
+	"github.com/vnetman/ot-ns/dispatcher"
 
-	"github.com/openthread/ot-ns/simulation"
-	. "github.com/openthread/ot-ns/types"
+	"github.com/vnetman/ot-ns/simulation"
+	. "github.com/vnetman/ot-ns/types"
 	"github.com/pkg/errors"
 	"github.com/simonlingoogle/go-simplelogger"
 )

@@ -26,7 +26,7 @@
 
 package visualize_grpc
 
-import pb "github.com/openthread/ot-ns/visualize/grpc/pb"
+import pb "github.com/vnetman/ot-ns/visualize/grpc/pb"
 
 type grpcStream struct {
 	pb.VisualizeGrpcService_VisualizeServer

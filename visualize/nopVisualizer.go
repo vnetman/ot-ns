@@ -29,7 +29,7 @@ package visualize
 import (
 	"time"
 
-	. "github.com/openthread/ot-ns/types"
+	. "github.com/vnetman/ot-ns/types"
 )
 
 type nopVisualizer struct{}

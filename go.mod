@@ -24,7 +24,7 @@
 // ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 // POSSIBILITY OF SUCH DAMAGE.
 
-module github.com/openthread/ot-ns
+module github.com/vnetman/ot-ns
 
 go 1.13
 

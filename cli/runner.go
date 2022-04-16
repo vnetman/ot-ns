@@ -29,7 +29,7 @@ package cli
 import (
 	"regexp"
 
-	"github.com/openthread/ot-ns/cli/runcli"
+	"github.com/vnetman/ot-ns/cli/runcli"
 	"github.com/simonlingoogle/go-simplelogger"
 )
 

@@ -30,7 +30,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/openthread/ot-ns/otnstester"
+	"github.com/vnetman/ot-ns/otnstester"
 )
 
 func TestAdd(t *testing.T) {

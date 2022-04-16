@@ -33,7 +33,7 @@ import (
 
 	"github.com/simonlingoogle/go-simplelogger"
 
-	pb "github.com/openthread/ot-ns/visualize/grpc/pb"
+	pb "github.com/vnetman/ot-ns/visualize/grpc/pb"
 
 	"google.golang.org/grpc"
 )

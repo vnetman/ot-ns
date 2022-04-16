@@ -5,7 +5,7 @@ import (
 	"os"
 	"time"
 
-	visualize_grpc_pb "github.com/openthread/ot-ns/visualize/grpc/pb"
+	visualize_grpc_pb "github.com/vnetman/ot-ns/visualize/grpc/pb"
 	"github.com/simonlingoogle/go-simplelogger"
 	"google.golang.org/protobuf/encoding/prototext"
 )

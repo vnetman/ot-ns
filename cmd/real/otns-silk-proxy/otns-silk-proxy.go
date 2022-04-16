@@ -4,7 +4,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/openthread/ot-ns/cli/runcli"
+	"github.com/vnetman/ot-ns/cli/runcli"
 	"github.com/simonlingoogle/go-simplelogger"
 )
 

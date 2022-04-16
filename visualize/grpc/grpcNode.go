@@ -27,8 +27,8 @@
 package visualize_grpc
 
 import (
-	"github.com/openthread/ot-ns/threadconst"
-	. "github.com/openthread/ot-ns/types"
+	"github.com/vnetman/ot-ns/threadconst"
+	. "github.com/vnetman/ot-ns/types"
 )
 
 type grpcNode struct {

@@ -30,8 +30,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/openthread/ot-ns/dissectpkt/wpan"
-	. "github.com/openthread/ot-ns/types"
+	"github.com/vnetman/ot-ns/dissectpkt/wpan"
+	. "github.com/vnetman/ot-ns/types"
 )
 
 type Visualizer interface {

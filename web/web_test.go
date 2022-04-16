@@ -31,7 +31,7 @@ import (
 	"runtime"
 	"testing"
 
-	"github.com/openthread/ot-ns/progctx"
+	"github.com/vnetman/ot-ns/progctx"
 )
 
 func TestOpenWeb(t *testing.T) {

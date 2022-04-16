@@ -29,7 +29,7 @@ package simulation
 import (
 	"strings"
 
-	"github.com/openthread/ot-ns/visualize"
+	"github.com/vnetman/ot-ns/visualize"
 	"github.com/pkg/errors"
 )
 

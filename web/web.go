@@ -31,7 +31,7 @@ import (
 	"os/exec"
 	"runtime"
 
-	"github.com/openthread/ot-ns/progctx"
+	"github.com/vnetman/ot-ns/progctx"
 
 	"github.com/simonlingoogle/go-simplelogger"
 )

@@ -29,7 +29,7 @@ package dispatcher
 import (
 	"container/heap"
 
-	. "github.com/openthread/ot-ns/types"
+	. "github.com/vnetman/ot-ns/types"
 	"github.com/simonlingoogle/go-simplelogger"
 )
 

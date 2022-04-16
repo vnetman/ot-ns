@@ -37,28 +37,28 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/openthread/ot-ns/cli/runcli"
+	"github.com/vnetman/ot-ns/cli/runcli"
 
-	"github.com/openthread/ot-ns/threadconst"
+	"github.com/vnetman/ot-ns/threadconst"
 
-	"github.com/openthread/ot-ns/dispatcher"
+	"github.com/vnetman/ot-ns/dispatcher"
 
-	webSite "github.com/openthread/ot-ns/web/site"
+	webSite "github.com/vnetman/ot-ns/web/site"
 
-	"github.com/openthread/ot-ns/web"
+	"github.com/vnetman/ot-ns/web"
 
 	"github.com/pkg/errors"
 
-	"github.com/openthread/ot-ns/progctx"
-	"github.com/openthread/ot-ns/visualize"
+	"github.com/vnetman/ot-ns/progctx"
+	"github.com/vnetman/ot-ns/visualize"
 
-	visualizeGrpc "github.com/openthread/ot-ns/visualize/grpc"
+	visualizeGrpc "github.com/vnetman/ot-ns/visualize/grpc"
 
-	visualizeMulti "github.com/openthread/ot-ns/visualize/multi"
+	visualizeMulti "github.com/vnetman/ot-ns/visualize/multi"
 
-	"github.com/openthread/ot-ns/cli"
+	"github.com/vnetman/ot-ns/cli"
 
-	"github.com/openthread/ot-ns/simulation"
+	"github.com/vnetman/ot-ns/simulation"
 	"github.com/simonlingoogle/go-simplelogger"
 )
 

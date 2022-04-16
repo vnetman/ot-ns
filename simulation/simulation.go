@@ -31,11 +31,11 @@ import (
 	"sort"
 	"time"
 
-	"github.com/openthread/ot-ns/progctx"
+	"github.com/vnetman/ot-ns/progctx"
 
-	"github.com/openthread/ot-ns/dispatcher"
-	. "github.com/openthread/ot-ns/types"
-	"github.com/openthread/ot-ns/visualize"
+	"github.com/vnetman/ot-ns/dispatcher"
+	. "github.com/vnetman/ot-ns/types"
+	"github.com/vnetman/ot-ns/visualize"
 	"github.com/pkg/errors"
 	"github.com/simonlingoogle/go-simplelogger"
 )

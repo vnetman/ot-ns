@@ -27,8 +27,8 @@
 package visualize_grpc
 
 import (
-	. "github.com/openthread/ot-ns/types"
-	"github.com/openthread/ot-ns/visualize"
+	. "github.com/vnetman/ot-ns/types"
+	"github.com/vnetman/ot-ns/visualize"
 	"github.com/simonlingoogle/go-simplelogger"
 )
 

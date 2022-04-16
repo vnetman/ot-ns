@@ -30,14 +30,14 @@ import (
 	"sync"
 	"time"
 
-	"github.com/openthread/ot-ns/visualize/grpc/replay"
+	"github.com/vnetman/ot-ns/visualize/grpc/replay"
 
 	"github.com/simonlingoogle/go-simplelogger"
 
-	pb "github.com/openthread/ot-ns/visualize/grpc/pb"
+	pb "github.com/vnetman/ot-ns/visualize/grpc/pb"
 
-	. "github.com/openthread/ot-ns/types"
-	"github.com/openthread/ot-ns/visualize"
+	. "github.com/vnetman/ot-ns/types"
+	"github.com/vnetman/ot-ns/visualize"
 )
 
 type grpcVisualizer struct {

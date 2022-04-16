@@ -26,7 +26,7 @@
 
 package simulation
 
-import "github.com/openthread/ot-ns/threadconst"
+import "github.com/vnetman/ot-ns/threadconst"
 
 const (
 	DefaultNetworkName = "OTSIM"

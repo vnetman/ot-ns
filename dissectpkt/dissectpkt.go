@@ -27,7 +27,7 @@
 package dissectpkt
 
 import (
-	"github.com/openthread/ot-ns/dissectpkt/wpan"
+	"github.com/vnetman/ot-ns/dissectpkt/wpan"
 )
 
 type WpanFrameType int

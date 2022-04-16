@@ -32,7 +32,7 @@ import (
 	"os"
 	"time"
 
-	pb "github.com/openthread/ot-ns/visualize/grpc/pb"
+	pb "github.com/vnetman/ot-ns/visualize/grpc/pb"
 	"github.com/pkg/errors"
 	"github.com/simonlingoogle/go-simplelogger"
 	"google.golang.org/protobuf/encoding/prototext"

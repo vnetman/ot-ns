@@ -26,7 +26,7 @@
 
 package main
 
-import "github.com/openthread/ot-ns/simulation"
+import "github.com/vnetman/ot-ns/simulation"
 
 const (
 	RoleLeader = "leader"
